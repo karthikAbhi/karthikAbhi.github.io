@@ -1,6 +1,6 @@
 ## Welcome
 
-I'm Karthik. I'm always ready to solve problems. I love Robots and the art of building them from scratch. Let's transform #Transformers
+I'm Karthik. I'm always ready to solve problems that excite me(haha.. :P). I love Robots and the art of building them from scratch. Let's transform #Transformers
 
 ## Know about my work
 
@@ -20,6 +20,5 @@ My Best Work - **ROBOT**
 
 1. Library fro NASH Printer
 
-
-
+More works that I'll be posting very soon. Thanks! for your time. Be Happy :)
 
