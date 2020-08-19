@@ -1,41 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/karthikAbhi/karthikAbhi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm Karthik. I'm always ready to solve problems. I love Robots and the art of building them from scratch. Let's transform #Transformers
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Know about my work
 
-## This is me
+My Best Work - **ROBOT**
 
-[ME](https://youtu.be/7NXM4c2c6hU)
+### Android Works
 
-### Markdown
+1. NPOS Application for NASH Printer
+2. Visitor Pass Printer App
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### C++ Works
 
-```markdown
-Syntax highlighted code block
+1. SDK for NASH Printer
+2. QT Application for Testing the library
 
-# Header 1
-## Header 2
-### Header 3
+### Python Works
 
-- Bulleted
-- List
+1. Library fro NASH Printer
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karthikAbhi/karthikAbhi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
